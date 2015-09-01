@@ -1,0 +1,19 @@
+# MAC OS
+.DS_Store
+
+# Eclipse and idea
+.settings
+.project
+.classpath
+.buildpath*
+org.eclipse.*
+
+# Netbean
+/nbproject/private/
+
+# rocketeer
+.rocketeer/logs/*.*
+
+# logs file
+logs/*
+
